@@ -23,7 +23,7 @@ elif lvl=="medium":
         print("Your number was larger than the guessed number, sorry. Better luck next time!")
     elif(number2<x):
         print("Your number was less than the chosen number my apologies!")
-        #loop this smh, reference the hangman game for more helpk 
+        #loop this from lines 22-25
 elif lvl=="hard":
     x=random.randrange(1,100)
     number3=int(input("Enter your guess: "))
