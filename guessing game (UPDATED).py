@@ -33,3 +33,4 @@ elif lvl=="hard":
         print("Your number was larger than our number, better luck next time!")
     elif (number3<x):
         print("Your number was smaller than our guessed number, better luck next time!")
+        #loop lines 32-35
