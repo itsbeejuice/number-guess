@@ -1,7 +1,7 @@
 import random
 
 x=random.randrange(1,2)
-#it was stuck between one and two for testing, i beieve the original was a guess between 1-10
+#it was stuck between one and two for testing, i believe the original was a guess between 1-10
 
 number=int(input('enter your choice: '))
 
